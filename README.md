@@ -4,7 +4,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+
 
 I am a Full Stack Engineer with experience at Citibank and Berkadia, specializing in building scalable, high-performance applications. Passionate about exploring new technologies, I thrive on solving complex problems in both frontend and backend development while continuously learning and innovating in cloud architectures and AI integrations.
 - 📚 I’m currently learning ...
