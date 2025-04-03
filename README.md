@@ -80,10 +80,10 @@ I am a Full Stack Engineer with experience at Citibank and Berkadia, specializin
 <!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 
-![Himank's GH Top Languages](https://github-readme-stats-green-seven-69.vercel.app/api/top-langs/?username=himankpathak&hide=CSS&layout=compact&theme=dracula&hide_border=true&border_radius=10&custom_title=Most%20Used%20Languages%20on%20GH)
+![Ganesh's GH Top Languages](https://github-readme-stats-green-seven-69.vercel.app/api/top-langs/?username=ganesh-srv&hide=CSS&layout=compact&theme=dracula&hide_border=true&border_radius=10&custom_title=Most%20Used%20Languages%20on%20GH)
 > Note: This is only a metric of the languages my public code consists of and does not reflect my experience or skill level.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=himankpathak.readme) [![wakatime](https://wakatime.com/badge/user/c1bc053f-8fd2-400d-b72e-626619ab4ae1.svg)](https://wakatime.com/@c1bc053f-8fd2-400d-b72e-626619ab4ae1)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ganesh-srv.readme) [![wakatime](https://wakatime.com/badge/user/c1bc053f-8fd2-400d-b72e-626619ab4ae1.svg)](https://wakatime.com/@c1bc053f-8fd2-400d-b72e-626619ab4ae1)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
