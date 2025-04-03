@@ -8,8 +8,8 @@
 
 I am a Full Stack Engineer with experience at Citibank and Berkadia, specializing in building scalable, high-performance applications. Passionate about exploring new technologies, I thrive on solving complex problems in both frontend and backend development while continuously learning and innovating in cloud architectures and AI integrations.
 - 📚 I’m currently learning ...
-  - *GenAI*
-  - *TypeScript*
+  - *Generative AI & LLMs*
+  -  *AI & Machine Learning for Developers*
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - Outside tech, I enjoy socializing with friends,🎵 listening to music, and I'm a big movie buff and always open to some movie suggestions.
@@ -49,14 +49,17 @@ I am a Full Stack Engineer with experience at Citibank and Berkadia, specializin
 
 ###### Deployment & Cloud Services:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
+![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+
 
 <!-- #### ML/DL -->
 
 ###### Database Management:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
 
 ###### Development Tools:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -82,7 +85,7 @@ I am a Full Stack Engineer with experience at Citibank and Berkadia, specializin
 ![Ganesh's GH Top Languages](https://github-readme-stats-green-seven-69.vercel.app/api/top-langs/?username=ganesh-srv&hide=CSS&layout=compact&theme=dracula&hide_border=true&border_radius=10&custom_title=Most%20Used%20Languages%20on%20GH)
 > Note: This is only a metric of the languages my public code consists of and does not reflect my experience or skill level.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 
