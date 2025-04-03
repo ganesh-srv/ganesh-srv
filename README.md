@@ -49,7 +49,7 @@ I am a Full Stack Engineer with experience at Citibank and Berkadia, specializin
 
 ###### Deployment & Cloud Services:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 
 
