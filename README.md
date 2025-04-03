@@ -84,10 +84,10 @@ I am a Full Stack Engineer with experience at Citibank and Berkadia, specializin
 <p align="center">
 <table align="center">
 <tr>
-<td width="50%" align="center">
+<!-- <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ganesh-srv&theme=nightowl&show_icons=true&count_private=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-srv&theme=nightowl&hide_border=false" alt="ganesh streak" />
-</td>
+</td> -->
 <td width="50%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ganesh-srv&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>
