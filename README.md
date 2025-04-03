@@ -74,24 +74,7 @@ I am a Full Stack Engineer with experience at Citibank and Berkadia, specializin
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">El Molino</h3>
-      <div align="center">
-        <a href="https://github.com/AAL1X/El_Molino-v1.0" target="_blank">
-          <img src="https://github.com/AAL1X/El_Molino-v1.0/blob/main/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
-        </a>
-        <p>
-          <a href="https://github.com/AAL1X/El_Molino-v1.0" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
-          </a>
-        </p>
-        <p><strong>EL MOLINO</strong> es un juego desarrollado en <strong>C++</strong> que combina estrategias, decisiones e incluye gráficos de calidad sorprendente para una aplicación de consola.</p>
-      </div>
-    </td>
-  </tr>
-</table>
+
 <br>
 
 <!-- Github Stats -->
@@ -102,11 +85,11 @@ I am a Full Stack Engineer with experience at Citibank and Berkadia, specializin
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AAL1X&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAL1X&theme=nightowl&hide_border=false" alt="AAL1X streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ganesh-srv&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-srv&theme=nightowl&hide_border=false" alt="ganesh streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AAL1X&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ganesh-srv&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>
 </tr>
 </table>
@@ -114,13 +97,6 @@ I am a Full Stack Engineer with experience at Citibank and Berkadia, specializin
 <br>
 
 <!-- Visitor Counter -->
-<br>
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/AAL1X/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-</div>
-<br>
-<br>
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
